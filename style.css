@@ -1,6 +1,6 @@
 
 body {
-  background-color:darkteal;
+  background-color:darkgrey;
   
 }
 
@@ -13,20 +13,6 @@ title{
 h1{
 font-family: Averia_Serif_Libre;
   color: darkgrey
-}
-
-p {
-    text-align: left
-    font-family: fantasy;
-    font-size: 14px;
- 
-    float: left;
-    width: 234px;
-    margin: 70px;
-    border-color: darkgrey;
-    border-width: 4px;
-    border-style: outset;
-    border-radius: 10px;
 }
 .vertical-menu {
     width: 200px;
@@ -48,3 +34,17 @@ p {
     background-color: #4CAF50; 
     color: white;
 }
+p {
+    text-align: left
+    font-family: fantasy;
+    font-size: 14px;
+ 
+    float: left;
+    width: 234px;
+    margin: 70px;
+    border-color: darkgrey;
+    border-width: 4px;
+    border-style: outset;
+    border-radius: 10px;
+}
+
