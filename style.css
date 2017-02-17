@@ -1,50 +1,10 @@
-
 body {
-  background-color:magenta;
-  
+  background-color: #cfdff7;
 }
-
 title{
     color: black;
     ;
     font-family:Averia;
 }
 
-h1{
-font-family:Libre;
-  color: black
-}
-.vertical-menu {
-    width: 200px;
-}
-
-.vertical-menu a {
-    background-color: #eee;
-    color: black; 
-    display: block; 
-    padding: 12px;
-    text-decoration: none; 
-}
-
-.vertical-menu a:hover {
-    background-color: #ccc; 
-}
-
-.vertical-menu a.active {
-    background-color: #4CAF50; 
-    color: white;
-}
-p {
-    text-align: left
-    font-family: fantasy;
-    font-size: 14px;
- 
-    float: left;
-    width: 234px;
-    margin: 70px;
-    border-color: darkgrey;
-    border-width: 4px;
-    border-style: outset;
-    border-radius: 10px;
-}
 
