@@ -185,4 +185,5 @@ H2 {
 .box {
       border: solid;
       border-color: #efefef;
+      border-width: 20px;
 }
