@@ -167,7 +167,6 @@ margin-left: calc(100% - 50px);
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-    float: center;
   }
 ul {
     padding-top: 50px;
@@ -235,4 +234,7 @@ ul {
 	.flat-table-1 {
 		background: #8d8d8d;
 	}
+        .left {
+		float: left;
+}
 		}
