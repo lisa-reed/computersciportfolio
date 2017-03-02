@@ -175,6 +175,7 @@ ul {
     padding-bottom: 50px;
     padding-left: 90px;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
+	float: right
 }
 
 .picture {
@@ -198,6 +199,14 @@ ul {
     border-color: #8d8d8d;
     border-width: 10px;
     margin: 20px 0 20px 0;
+}
+.img-circle-float {
+    border-radius: 50%;
+    border: solid;
+    border-color: #8d8d8d;
+    border-width: 10px;
+    margin: 20px 0 20px 0;
+    float: left
 }
 
 .flat-table {
