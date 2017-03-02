@@ -185,7 +185,7 @@ ul {
 .box {
       border: solid;
       border-color: #8d8d8d;
-      border-width: 20px;
+      border-width: 10px;
       margin: 20px 0 20px 0;
       padding: 30px;
 	font-family: 'Lato', Calibri, Arial, sans-serif;
@@ -195,7 +195,7 @@ ul {
     border-radius: 50%;
     border: solid;
     border-color: #8d8d8d;
-    border-width: 20px;
+    border-width: 10px;
     margin: 20px 0 20px 0;
     padding: 30px;
 }
