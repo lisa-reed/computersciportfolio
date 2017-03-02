@@ -69,6 +69,7 @@ padding: 10px 10px 10px 50px;
 font-size: 30px; 
 line-height: 30px; 
 z-index: 0; 
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
 
@@ -116,10 +117,12 @@ margin-left: 300px;
 }
 
 #drawer ul { 
-list-style-type:none; 
+list-style-type:none;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 } 
 
 #drawer ul a { 
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 display:block; 
 padding:10px; 
 color:#c7c7c7; 
@@ -156,9 +159,11 @@ margin-left: calc(100% - 50px);
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+	 font-family: 'Lato', Calibri, Arial, sans-serif;
   }
    p {
     padding-top: 50px;
+	   font-family: 'Lato', Calibri, Arial, sans-serif;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
@@ -168,6 +173,7 @@ ul {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 90px;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
 .picture {
@@ -182,6 +188,7 @@ ul {
       border-width: 20px;
       margin: 20px 0 20px 0;
       padding: 30px;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 }
 
 .img-circle {
